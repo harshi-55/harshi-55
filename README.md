@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <p> - 👯 I’m looking to collaborate with people inclined in contributing constantly</p>
 <p> - 💬 Ask me about web development </p>
 <p> - 😄 Pronouns: She/Her </p>
-<p>- 📝 I enhance my skills regularly and I am ahead in C,C++,R, Data structures</p>
+<p>- 📝 I enhance my skills regularly and I am ahead in C,C++,R, Data structures, HTML,CSS, BOOTSTRAP, Javascript</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi-55&label=Profile%20views&color=0e75b6&style=flat" alt="harshi-55" /> </p>
 
