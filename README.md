@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Battula Sri Harshitha</h1>
-<h3 align="center">I'm passionate in Data Science and quite forward in Web development</h3>
+<h3 align="center">I'm fascinate to learn Data Science and quite forward in Web development</h3>
+<p> - 🔭 I’m currently an undergraduate student at VNRVJIET, Hyderabad </p>
+<p> - 🌱 I’m currently exploring and learning new things </p>
+<p> - 👯 I’m looking to collaborate with people inclined in contributing constantly</p>
+<p> - 💬 Ask me about web development </p>
+<p> - 😄 Pronouns: She/Her </p>
+<p>- 📝 I enhance my skills regularly and I am ahead in C,C++,R, Data structures</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi-55&label=Profile%20views&color=0e75b6&style=flat" alt="harshi-55" /> </p>
 
