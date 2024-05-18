@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Battula Sri Harshitha</h1>
-<h3 align="center">I'm fascinate to learn Data Science and quite forward in Web development</h3>
+<h3 align="center">I'm fascinate to learn Data Science and quite forward in Amazon Web Services and Web development</h3>
 <img align="centre" width="900" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p> - 🔭 I’m currently an undergrad student at VNR VJIET, Hyderabad, India </p>
 <p> - 🌱 I’m currently exploring and learning new things </p>
