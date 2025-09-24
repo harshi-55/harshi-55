@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Battula Sri Harshitha</h1>
-<h3 align="center">I'm fascinate to learn Data Science and quite forward in Amazon Web Services and Web development</h3>
+<h3 align="center">I'm fascinate to learn AI, Data Science and quite forward in Cloud and Web development</h3>
 <img align="centre" width="900" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p> - 🔭 I’m currently a Master's student at West Virginia State University, Dunbar, WV, USA </p>
 <p> - 🌱 I’m currently exploring and learning new things </p>
@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/sri-harshitha-battula-609269234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sri-harshitha-battula-609269234/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@harshitha_battu1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshitha_battu1" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/sriharshithabattula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshitha_battu1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
