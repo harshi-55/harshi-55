@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Battula Sri Harshitha</h1>
 <h3 align="center">I'm fascinate to learn Data Science and quite forward in Amazon Web Services and Web development</h3>
 <img align="centre" width="900" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
-<p> - 🔭 I’m currently an undergrad student at VNR VJIET, Hyderabad, India </p>
+<p> - 🔭 I’m currently a Master's student at West Virginia State University, Dunbar, WV, USA </p>
 <p> - 🌱 I’m currently exploring and learning new things </p>
 <p> - 👯 I’m looking to collaborate with people inclined in contributing constantly</p>
-<p> - 💬 Ask me about web development </p>
+<p> - 💬 Ask me about AI, Cloud, Data Science, Web development </p>
 <p> - 😄 Pronouns: She/Her </p>
-<p>- 📝 I enhance my skills regularly and I am ahead in C,C++,R, Data structures, HTML,CSS, BOOTSTRAP, Javascript</p>
+<p>- 📝 I enhance my skills regularly and I am ahead in C++, Python, Data structures, Algorithms, HTML,CSS, BOOTSTRAP, Javascript</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi-55&label=Profile%20views&color=0e75b6&style=flat" alt="harshi-55" /> </p>
 
