@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Battula Sri Harshitha</h1>
-<h3 align="center">Exploring AI and Data Science, and advancing in Cloud and Web Development.</h3>
+<h3 align="center">Exploring AI and Data Science, and advancing in Data Engineering and Cloud.</h3>
 <img align="centre" width="900" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p> - 🎓 Master’s Student in West Virginia State University</p>
 <p> - 📊 Interested in Data Science, Machine Learning, and Cloud Technologies</p>
