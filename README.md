@@ -16,13 +16,12 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Battula Sri Harshitha</h1>
-<h3 align="center">I am passionate about learning AI and Data Science, and I have a strong foundation in Cloud and Web Development.</h3>
+<h3 align="center">Exploring AI and Data Science, and advancing in Cloud and Web Development.</h3>
 <img align="centre" width="900" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 <p> - 🎓 Master’s Student in West Virginia State University</p>
 <p> - 📊 Interested in Data Science, Machine Learning, and Cloud Technologies</p>
 <p> - 📈 Love solving complex problems using data-driven approaches</p>
 <p> - 😄 Pronouns: She/Her </p>
-<p>- 📝 I enhance my skills regularly and I am ahead in C++, Python, Data structures, Algorithms, HTML,CSS, BOOTSTRAP, Javascript</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi-55&label=Profile%20views&color=0e75b6&style=flat" alt="harshi-55" /> </p>
 
@@ -32,7 +31,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **harshitha.battula108@gmail.com**
 
-- ⚡ Fun fact **I am silent**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
