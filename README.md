@@ -23,8 +23,6 @@ Here are some ideas to get you started:
 <p> - 📈 Love solving complex problems using data-driven approaches</p>
 <p> - 😄 Pronouns: She/Her </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshi-55&label=Profile%20views&color=0e75b6&style=flat" alt="harshi-55" /> </p>
-
 
 - 👨‍💻 All of my projects are available at [https://github.com/harshi-55?tab=repositories](https://github.com/harshi-55?tab=repositories)
 
@@ -34,7 +32,6 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sri-harshitha-battula-609269234/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sri-harshitha-battula-609269234/" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/sriharshithabattula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@harshitha_battu1" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
